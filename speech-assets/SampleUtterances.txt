@@ -1,0 +1,26 @@
+GetNewFactIntent ask random facts for a fact
+GetNewFactIntent ask random facts for a random fact
+GetNewFactIntent ask random facts to tell me a fact
+GetNewFactIntent ask random facts to tell me a random fact
+GetNewFactIntent ask random facts to give me a fact
+GetNewFactIntent ask random facts to give me a random fact
+GetNewFactIntent ask random facts to tell me trivia
+GetNewFactIntent ask random facts to tell me a random trivia
+GetNewFactIntent ask random facts to give me trivia
+GetNewFactIntent ask random facts to give me a random trivia
+GetNewFactIntent ask random facts to give me some information
+GetNewFactIntent ask random facts to give me some random information
+GetNewFactIntent ask random facts to tell me something
+GetNewFactIntent ask random facts to give me something
+GetNewFactIntent ask random facts to give me something random
+GetNewFactIntent ask random facts to tell me something random
+GetNewFactIntent ask random facts to give me something interesting
+GetNewFactIntent ask random facts to tell me something interesting
+GetNewFactIntent what's a fact you can give me using random facts
+GetNewFactIntent what's a fact you can tell me using random facts
+GetNewFactIntent what's a random fact you can give me using random facts
+GetNewFactIntent what's a random fact you can tell me using random facts
+GetNewFactIntent what's a fact from random facts
+GetNewFactIntent tell me a random fact
+GetNewFactIntent give me a random fact
+GetNewFactIntent give me a fact
